@@ -1,0 +1,13 @@
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.csprojAssemblyReference.cache
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.AssemblyInfoInputs.cache
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.AssemblyInfo.cs
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.csproj.CoreCompileInputs.cache
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.exe
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.deps.json
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.runtimeconfig.json
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.runtimeconfig.dev.json
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.dll
+C:\c-sharp\BuildASentence\BuildASentence\bin\Debug\netcoreapp3.1\BuildASentence.pdb
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.dll
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.pdb
+C:\c-sharp\BuildASentence\BuildASentence\obj\Debug\netcoreapp3.1\BuildASentence.genruntimeconfig.cache
