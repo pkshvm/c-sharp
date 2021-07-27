@@ -1,0 +1,13 @@
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.csprojAssemblyReference.cache
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.AssemblyInfoInputs.cache
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.AssemblyInfo.cs
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.exe
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.deps.json
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.runtimeconfig.json
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.runtimeconfig.dev.json
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.dll
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\bin\Debug\netcoreapp3.1\ModifyString.pdb
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.dll
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.pdb
+C:\Users\Mak\Documents\C#\ModifyString\ModifyString\obj\Debug\netcoreapp3.1\ModifyString.genruntimeconfig.cache
