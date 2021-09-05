@@ -37,7 +37,7 @@ namespace RemoveWhiteSpace
                 Console.WriteLine(s);
                 // Ожидаем подтверждения пользователя
                 Console.WriteLine("Haжмитe <Enter> для " +
-               " завершения программы . . . ");
+               "завершения программы . . . ");
                 Console.Read();
         }
     }
