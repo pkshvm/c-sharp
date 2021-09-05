@@ -1,0 +1,13 @@
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.exe
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.deps.json
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.runtimeconfig.json
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.runtimeconfig.dev.json
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.dll
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\bin\Debug\netcoreapp3.1\RemoveWhiteSpace.pdb
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.csprojAssemblyReference.cache
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.AssemblyInfoInputs.cache
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.AssemblyInfo.cs
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.csproj.CoreCompileInputs.cache
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.dll
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.pdb
+C:\c-sharp\RemoveWhiteSpace\RemoveWhiteSpace\obj\Debug\netcoreapp3.1\RemoveWhiteSpace.genruntimeconfig.cache
