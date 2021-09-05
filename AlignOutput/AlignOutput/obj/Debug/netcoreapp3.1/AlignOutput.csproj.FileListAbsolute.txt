@@ -1,0 +1,13 @@
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.csprojAssemblyReference.cache
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.AssemblyInfoInputs.cache
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.AssemblyInfo.cs
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.csproj.CoreCompileInputs.cache
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.exe
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.deps.json
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.runtimeconfig.json
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.runtimeconfig.dev.json
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.dll
+C:\c-sharp\AlignOutput\AlignOutput\bin\Debug\netcoreapp3.1\AlignOutput.pdb
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.dll
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.pdb
+C:\c-sharp\AlignOutput\AlignOutput\obj\Debug\netcoreapp3.1\AlignOutput.genruntimeconfig.cache
