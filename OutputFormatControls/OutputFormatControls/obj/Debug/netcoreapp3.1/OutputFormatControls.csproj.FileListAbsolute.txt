@@ -1,0 +1,13 @@
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.csprojAssemblyReference.cache
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.AssemblyInfoInputs.cache
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.AssemblyInfo.cs
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.csproj.CoreCompileInputs.cache
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.exe
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.deps.json
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.runtimeconfig.json
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.runtimeconfig.dev.json
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.dll
+C:\c-sharp\OutputFormatControls\OutputFormatControls\bin\Debug\netcoreapp3.1\OutputFormatControls.pdb
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.dll
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.pdb
+C:\c-sharp\OutputFormatControls\OutputFormatControls\obj\Debug\netcoreapp3.1\OutputFormatControls.genruntimeconfig.cache
