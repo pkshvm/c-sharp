@@ -17,7 +17,7 @@ namespace OutputFormatControls
                 {
                 // Ввод числа и выход из цикла, если введена пустая
                 // строка
-                Console.WriteLine("В ведите число с плавающей точкой ");
+                Console.WriteLine("Введите число с плавающей точкой ");
                 string numberInput = Console.ReadLine();
                 if (numberInput.Length == 0)
                 {
@@ -27,7 +27,7 @@ namespace OutputFormatControls
 
                 // Ввод модификаторов форматирования, разделенных
                 // пробелами
-                Console.WriteLine(" Bвeдитe модификаторы " +
+                Console.WriteLine("Bвeдитe модификаторы " +
                     "форматирования, разделенные " +
                     "пробелами");
                 Console.WriteLine("(Haпpимep: С Е F1 N0 0000000.00000)");
