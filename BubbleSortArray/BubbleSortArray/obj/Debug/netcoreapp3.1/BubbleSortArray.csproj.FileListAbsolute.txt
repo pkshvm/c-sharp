@@ -1,0 +1,13 @@
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.csprojAssemblyReference.cache
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.AssemblyInfoInputs.cache
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.AssemblyInfo.cs
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.csproj.CoreCompileInputs.cache
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.exe
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.deps.json
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.runtimeconfig.json
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.runtimeconfig.dev.json
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.dll
+C:\c-sharp\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp3.1\BubbleSortArray.pdb
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.dll
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.pdb
+C:\c-sharp\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp3.1\BubbleSortArray.genruntimeconfig.cache
