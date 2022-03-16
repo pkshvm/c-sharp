@@ -1,0 +1,8 @@
+C:\C-Sharp\007_MusicalScale\bin\Debug\007_MusicalScale.exe.config
+C:\C-Sharp\007_MusicalScale\bin\Debug\007_MusicalScale.exe
+C:\C-Sharp\007_MusicalScale\bin\Debug\007_MusicalScale.pdb
+C:\C-Sharp\007_MusicalScale\obj\Debug\007_MusicalScale.csproj.AssemblyReference.cache
+C:\C-Sharp\007_MusicalScale\obj\Debug\007_MusicalScale.csproj.SuggestedBindingRedirects.cache
+C:\C-Sharp\007_MusicalScale\obj\Debug\007_MusicalScale.csproj.CoreCompileInputs.cache
+C:\C-Sharp\007_MusicalScale\obj\Debug\007_MusicalScale.exe
+C:\C-Sharp\007_MusicalScale\obj\Debug\007_MusicalScale.pdb
