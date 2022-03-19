@@ -1,0 +1,15 @@
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe.config
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.pdb
+D:\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csprojAssemblyReference.cache
+D:\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csproj.CoreCompileInputs.cache
+D:\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.exe
+D:\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.pdb
+C:\C-Sharp\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe.config
+C:\C-Sharp\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe
+C:\C-Sharp\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.pdb
+C:\C-Sharp\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csproj.AssemblyReference.cache
+C:\C-Sharp\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csproj.SuggestedBindingRedirects.cache
+C:\C-Sharp\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csproj.CoreCompileInputs.cache
+C:\C-Sharp\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.exe
+C:\C-Sharp\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.pdb

@@ -1,0 +1,15 @@
+D:\StringOperation\Interpolatio\bin\Debug\Interpolatio.exe.config
+D:\StringOperation\Interpolatio\bin\Debug\Interpolatio.exe
+D:\StringOperation\Interpolatio\bin\Debug\Interpolatio.pdb
+D:\StringOperation\Interpolatio\obj\Debug\006_Interpolatio.csprojAssemblyReference.cache
+D:\StringOperation\Interpolatio\obj\Debug\006_Interpolatio.csproj.CoreCompileInputs.cache
+D:\StringOperation\Interpolatio\obj\Debug\Interpolatio.exe
+D:\StringOperation\Interpolatio\obj\Debug\Interpolatio.pdb
+C:\C-Sharp\StringOperation\Interpolatio\bin\Debug\Interpolatio.exe.config
+C:\C-Sharp\StringOperation\Interpolatio\bin\Debug\Interpolatio.exe
+C:\C-Sharp\StringOperation\Interpolatio\bin\Debug\Interpolatio.pdb
+C:\C-Sharp\StringOperation\Interpolatio\obj\Debug\006_Interpolatio.csproj.AssemblyReference.cache
+C:\C-Sharp\StringOperation\Interpolatio\obj\Debug\006_Interpolatio.csproj.SuggestedBindingRedirects.cache
+C:\C-Sharp\StringOperation\Interpolatio\obj\Debug\006_Interpolatio.csproj.CoreCompileInputs.cache
+C:\C-Sharp\StringOperation\Interpolatio\obj\Debug\Interpolatio.exe
+C:\C-Sharp\StringOperation\Interpolatio\obj\Debug\Interpolatio.pdb
